@@ -1,0 +1,7 @@
+opencv/
+
+build/
+*.o
+*.out
+*.exe
+.DS_Store
